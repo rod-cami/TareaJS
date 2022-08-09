@@ -1,0 +1,15 @@
+footer ul {
+list-style: none;
+}
+
+main {
+  min-height: 100vh;
+}
+
+
+@media all and (min-width: 920px){
+  .parrafoFooter {
+    width: 300px;
+  }
+
+}
